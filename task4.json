@@ -1,0 +1,20 @@
+{
+    "Name": "Toy Story 3",
+    "Rating": [
+        "G"
+    ],
+    "Genre": [
+        " Comedy",
+        "Kids&family",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+    ],
+    "Language": [
+        "English"
+    ],
+    "Director": [
+        "LeeUnkrich"
+    ],
+    "Runtime": 102
+}
